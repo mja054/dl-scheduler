@@ -1,0 +1,12 @@
+dl-Scheduler is wrapper around youtube-dl. It allows user to schedule there
+downloads. Currently, it provides the user with the functionality of
+   * schedule a download
+   * list the already scheduled downloads
+   * delete one of the scheduled downloads
+
+Usage: scheduler [options] URL
+
+Use scheduler --help to get more help.
+
+Install:
+sudo cp ~/dl-scheduler/src/* /bin/
